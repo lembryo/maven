@@ -4,6 +4,9 @@
   <artifactId>ougi</artifactId>
   <versioning>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 128e0897819d6c31788835d34bf5412a613f7fae
     <release>0.0.3</release>
     <versions>
       <version>0.0.1</version>
@@ -11,6 +14,7 @@
       <version>0.0.3</version>
     </versions>
     <lastUpdated>20191006105829</lastUpdated>
+<<<<<<< HEAD
 =======
     <release>0.0.5</release>
     <versions>
@@ -21,5 +25,7 @@
     </versions>
     <lastUpdated>20191018160128</lastUpdated>
 >>>>>>> gh-pages
+=======
+>>>>>>> 128e0897819d6c31788835d34bf5412a613f7fae
   </versioning>
 </metadata>
